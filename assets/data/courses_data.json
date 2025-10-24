@@ -1,0 +1,355 @@
+{
+  "categories": [
+    {
+      "category": "AI Assistants",
+      "courses": [
+        {
+          "id": "chatgpt",
+          "title": "ChatGPT Mastery",
+          "image": "chatgpt_course.png"
+        },
+        {
+          "id": "grok",
+          "title": "Grok AI Mastery",
+          "image": "grok_course.png"
+        },
+        {
+          "id": "claude",
+          "title": "Claude AI Mastery",
+          "image": "claude_course.png"
+        },
+        {
+          "id": "gemini",
+          "title": "Google Gemini Mastery",
+          "image": "gemini_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Video Generation",
+      "courses": [
+        {
+          "id": "synthesia",
+          "title": "Synthesia Mastery",
+          "image": "synthesia_course.png"
+        },
+        {
+          "id": "google_veo",
+          "title": "Google Veo Mastery",
+          "image": "google_veo_course.png"
+        },
+        {
+          "id": "opusclip",
+          "title": "OpusClip Mastery",
+          "image": "opusclip_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Image Generation",
+      "courses": [
+        {
+          "id": "gpt4o",
+          "title": "GPT-4o Image Generation",
+          "image": "gpt4o_image_generation_course.png"
+        },
+        {
+          "id": "midjourney",
+          "title": "Midjourney Mastery",
+          "image": "midjourney_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Meeting Assistants",
+      "courses": [
+        {
+          "id": "fathom",
+          "title": "Fathom Mastery",
+          "image": "fathom_course.png"
+        },
+        {
+          "id": "nyota",
+          "title": "Nyota Mastery",
+          "image": "nyota_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Automation",
+      "courses": [
+        {
+          "id": "n8n",
+          "title": "n8n Mastery",
+          "image": "n8n_course.png"
+        },
+        {
+          "id": "manus",
+          "title": "Manus Mastery",
+          "image": "manus_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "courses": [
+        {
+          "id": "deep_research",
+          "title": "Deep Research Mastery",
+          "image": "deep_research_course.png"
+        },
+        {
+          "id": "notebooklm",
+          "title": "NotebookLM Mastery",
+          "image": "notebooklm_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Writing",
+      "courses": [
+        {
+          "id": "rytr",
+          "title": "Rytr Mastery",
+          "image": "rytr_course.png"
+        },
+        {
+          "id": "sudowrite",
+          "title": "Sudowrite Mastery",
+          "image": "sudowrite_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Search Engines",
+      "courses": [
+        {
+          "id": "google_ai_mode",
+          "title": "Google AI Mode Mastery",
+          "image": "google_ai_mode_course.png"
+        },
+        {
+          "id": "perplexity",
+          "title": "Perplexity Mastery",
+          "image": "perplexity_course.png"
+        },
+        {
+          "id": "chatgpt_search",
+          "title": "ChatGPT Search Mastery",
+          "image": "chatgpt_search_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Graphic Design",
+      "courses": [
+        {
+          "id": "canva_magic_studio",
+          "title": "Canva Magic Studio Mastery",
+          "image": "canva_course.png"
+        },
+        {
+          "id": "looka",
+          "title": "Looka Mastery",
+          "image": "looka_course.png"
+        }
+      ]
+    },
+    {
+      "category": "App Builders & Coding Tools",
+      "courses": [
+        {
+          "id": "lovable",
+          "title": "Lovable Mastery",
+          "image": "lovable_course.png"
+        },
+        {
+          "id": "cursor",
+          "title": "Cursor Mastery",
+          "image": "cursor_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Knowledge Management",
+      "courses": [
+        {
+          "id": "notion_q_a",
+          "title": "Notion Q&A Mastery",
+          "image": "notion_course.png"
+        },
+        {
+          "id": "guru",
+          "title": "Guru Mastery",
+          "image": "guru_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Email",
+      "courses": [
+        {
+          "id": "hubspot_email_writer",
+          "title": "Hubspot Email Writer Mastery",
+          "image": "hubspot_email_writer_course.png"
+        },
+        {
+          "id": "fyxer",
+          "title": "Fyxer Mastery",
+          "image": "fyxer_course.png"
+        },
+        {
+          "id": "shortwave",
+          "title": "Shortwave Mastery",
+          "image": "shortwave_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Scheduling",
+      "courses": [
+        {
+          "id": "reclaim",
+          "title": "Reclaim Mastery",
+          "image": "reclaim_course.png"
+        },
+        {
+          "id": "clockwise",
+          "title": "Clockwise Mastery",
+          "image": "clockwise_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Presentations",
+      "courses": [
+        {
+          "id": "gamma",
+          "title": "Gamma Mastery",
+          "image": "gamma_course.png"
+        },
+        {
+          "id": "copilot_for_powerpoint",
+          "title": "Copilot for PowerPoint Mastery",
+          "image": "copilot_for_powerpoint_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Resume Builders",
+      "courses": [
+        {
+          "id": "teal",
+          "title": "Teal Mastery",
+          "image": "teal_course.png"
+        },
+        {
+          "id": "kickresume",
+          "title": "Kickresume Mastery",
+          "image": "kick_resume_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Voice Generation",
+      "courses": [
+        {
+          "id": "elevenlabs",
+          "title": "ElevenLabs Mastery",
+          "image": "elevenlabs_course.png"
+        },
+        {
+          "id": "murf",
+          "title": "Murf Mastery",
+          "image": "murf_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Music Generation",
+      "courses": [
+        {
+          "id": "suno",
+          "title": "Suno Mastery",
+          "image": "suno_course.png"
+        },
+        {
+          "id": "udio",
+          "title": "Udio Mastery",
+          "image": "udio_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Marketing",
+      "courses": [
+        {
+          "id": "adcreative",
+          "title": "AdCreative Mastery",
+          "image": "adcreative_course.png"
+        },
+        {
+          "id": "airops",
+          "title": "AirOps Mastery",
+          "image": "airops_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Advertising",
+      "courses": [
+        {
+          "id": "adcreative_ai",
+          "title": "AdCreative.ai Mastery",
+          "image": "adcreative_io_course.png"
+        }
+      ]
+    },
+    {
+      "category": "SEO",
+      "courses": [
+        {
+          "id": "surfer",
+          "title": "Surfer Mastery",
+          "image": "surfer_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Productivity",
+      "courses": [
+        {
+          "id": "taskade",
+          "title": "Taskade Mastery",
+          "image": "taskade_course.png"
+        }
+      ]
+    },
+    {
+      "category": "Video Editing",
+      "courses": [
+        {
+          "id": "veed",
+          "title": "VEED Mastery",
+          "image": "veed_course.png"
+        }
+      ]
+    },
+    {
+      "category": "AI Chatbots",
+      "courses": [
+        {
+          "id": "customgpt",
+          "title": "CustomGPT Mastery",
+          "image": "customgpt_course.png"
+        },
+        {
+          "id": "chatbase",
+          "title": "Chatbase Mastery",
+          "image": "chatbase_course.png"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262861849299",
+    "project_id": "quiz-app-ai-b618c",
+    "storage_bucket": "quiz-app-ai-b618c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262861849299:android:17b6b5df2c0612288fca26",
+        "android_client_info": {
+          "package_name": "com.ramil.foundation_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyFjMXTjYgYSJD9rLma8HzK56C5qtRn4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
